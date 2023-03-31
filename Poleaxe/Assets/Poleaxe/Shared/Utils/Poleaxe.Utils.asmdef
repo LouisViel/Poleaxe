@@ -1,0 +1,16 @@
+{
+    "name": "Poleaxe.Utils",
+    "rootNamespace": "Poleaxe.Utils",
+    "references": [
+        "Poleaxe.Helper"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

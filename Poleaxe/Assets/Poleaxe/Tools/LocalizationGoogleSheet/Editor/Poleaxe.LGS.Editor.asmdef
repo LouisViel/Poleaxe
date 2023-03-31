@@ -1,0 +1,28 @@
+{
+    "name": "Poleaxe.LGS.Editor",
+    "rootNamespace": "Poleaxe.LGS.Editor",
+    "references": [
+        "Unity.Localization.Editor",
+        "Unity.Localization",
+        "Poleaxe.Editor.Helper",
+        "Poleaxe.Editor.Utils",
+        "Poleaxe.Utils"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.localization",
+            "expression": "",
+            "define": "LOCALIZATION"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e037310678f9044428b98d88fd186aa8, type: 3}
+  m_Name: Standard - URP
+  m_EditorClassIdentifier: 
+  isDefault: 0
+  remappings:
+  - name: 
+    fromMapping: {fileID: 11400000, guid: 4bb4e311c676f0f4ea8ff80c5ff0aec2, type: 2}
+    toMapping: {fileID: 11400000, guid: 5bb072524384fbc44983077f33c1c820, type: 2}
+    bindings: []

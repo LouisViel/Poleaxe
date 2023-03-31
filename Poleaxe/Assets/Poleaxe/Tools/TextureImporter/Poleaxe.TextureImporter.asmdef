@@ -1,0 +1,16 @@
+{
+    "name": "Poleaxe.TextureImporter",
+    "rootNamespace": "Poleaxe.TextureImporter",
+    "references": [
+        "GUID:b64fd841b0d981546bb7932b14dcb329"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

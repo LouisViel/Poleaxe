@@ -1,0 +1,21 @@
+{
+    "name": "Poleaxe.SceneManagement.Editor",
+    "rootNamespace": "Poleaxe.SceneManagement.Editor",
+    "references": [
+        "Poleaxe.SceneManagement",
+        "Poleaxe.Editor.Helper",
+        "Poleaxe.Editor.Utils",
+        "Poleaxe.Utils"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

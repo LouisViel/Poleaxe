@@ -1,0 +1,20 @@
+{
+    "name": "Poleaxe.TextureImporter.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eca6658807877ce458f120b5a37897c3",
+        "GUID:68d0756447b90414c95dd8eb10a793b6",
+        "GUID:7683844ca6277994198780094ed69f37"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
